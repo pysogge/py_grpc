@@ -1,0 +1,5 @@
+venv
+__*
+.DS_Store
+*.pyc
+*_pb2*.py
